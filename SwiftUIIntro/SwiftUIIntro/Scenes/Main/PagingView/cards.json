@@ -1,0 +1,28 @@
+[
+    {
+        "id" : "ab8932ca-29bf-11ed-a261-0242ac120002",
+        "title": "WELCOME TO\nMonumental habits",
+        "subTitle": "No matter where you go,\nyour books always with you.",
+        "image": "PageView1"
+    },
+    {
+        "id" : "ab8932ca-29bf-11ed-a261-0242ac120001",
+        "title": "CREATE NEW\nHABIT EASILY",
+        "subTitle": "Your reading lib migth be shared with community and friends.",
+        "image": "PageView2"
+    },
+    {
+        "id" : "ab8932ca-29bf-11ed-a261-0242ac120004",
+        "title": "KEEP TRACK OF YOUR\nPROGRESS",
+        "subTitle": "Get insights into your reading preferencies and anlytics of time spent",
+        "image": "PageView3"
+    },
+    {
+        "id" : "ab8932ca-29bf-11ed-a261-0242ac120004",
+        "title": "JOIN A SUPPORTIVE\nCOMMUNITY",
+        "subTitle": "Get insights into your reading preferencies and anlytics of time spent",
+        "image": "PageView4"
+    }
+]
+
+ 

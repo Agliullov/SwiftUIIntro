@@ -7,6 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4401381029E9A0AF00FCF668 /* Manrope-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401380929E9A0AE00FCF668 /* Manrope-Medium.ttf */; };
+		4401381129E9A0AF00FCF668 /* Manrope-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401380A29E9A0AE00FCF668 /* Manrope-Regular.ttf */; };
+		4401381229E9A0AF00FCF668 /* Manrope-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401380B29E9A0AE00FCF668 /* Manrope-ExtraLight.ttf */; };
+		4401381329E9A0AF00FCF668 /* Manrope-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401380C29E9A0AE00FCF668 /* Manrope-SemiBold.ttf */; };
+		4401381429E9A0AF00FCF668 /* Manrope-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401380D29E9A0AF00FCF668 /* Manrope-ExtraBold.ttf */; };
+		4401381529E9A0AF00FCF668 /* Manrope-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401380E29E9A0AF00FCF668 /* Manrope-Light.ttf */; };
+		4401381629E9A0AF00FCF668 /* Manrope-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401380F29E9A0AF00FCF668 /* Manrope-Bold.ttf */; };
+		4401381B29E9A0BD00FCF668 /* DynaPuff-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401381729E9A0BD00FCF668 /* DynaPuff-SemiBold.ttf */; };
+		4401381C29E9A0BD00FCF668 /* DynaPuff-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401381829E9A0BD00FCF668 /* DynaPuff-Regular.ttf */; };
+		4401381D29E9A0BD00FCF668 /* DynaPuff-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401381929E9A0BD00FCF668 /* DynaPuff-Medium.ttf */; };
+		4401381E29E9A0BD00FCF668 /* DynaPuff-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4401381A29E9A0BD00FCF668 /* DynaPuff-Bold.ttf */; };
+		4401382129E9C00E00FCF668 /* TestOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401382029E9C00E00FCF668 /* TestOne.swift */; };
+		4401382329E9C06B00FCF668 /* TestTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401382229E9C06B00FCF668 /* TestTwo.swift */; };
+		4401382529E9C09200FCF668 /* TestThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401382429E9C09200FCF668 /* TestThree.swift */; };
+		4401382729E9C0B200FCF668 /* TestFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401382629E9C0B200FCF668 /* TestFour.swift */; };
+		4401382929E9C0D900FCF668 /* TestFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401382829E9C0D900FCF668 /* TestFive.swift */; };
+		4401382B29E9C13400FCF668 /* TestSix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401382A29E9C13400FCF668 /* TestSix.swift */; };
+		4401382D29E9C15100FCF668 /* TestSeven.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401382C29E9C15100FCF668 /* TestSeven.swift */; };
+		4401382F29E9C1CF00FCF668 /* cards.json in Resources */ = {isa = PBXBuildFile; fileRef = 4401382E29E9C1CF00FCF668 /* cards.json */; };
 		4449C3DB29E85CEB00F51603 /* SwiftUIIntroApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4449C3DA29E85CEB00F51603 /* SwiftUIIntroApp.swift */; };
 		4449C3DD29E85CEB00F51603 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4449C3DC29E85CEB00F51603 /* ContentView.swift */; };
 		4449C3DF29E85CEE00F51603 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4449C3DE29E85CEE00F51603 /* Assets.xcassets */; };
@@ -16,6 +35,9 @@
 		4449C3F129E85CEF00F51603 /* SwiftUIIntroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4449C3F029E85CEF00F51603 /* SwiftUIIntroTests.swift */; };
 		4449C3FB29E85CEF00F51603 /* SwiftUIIntroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4449C3FA29E85CEF00F51603 /* SwiftUIIntroUITests.swift */; };
 		4449C3FD29E85CEF00F51603 /* SwiftUIIntroUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4449C3FC29E85CEF00F51603 /* SwiftUIIntroUITestsLaunchTests.swift */; };
+		4449C41229E85F3700F51603 /* CustomTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4449C41129E85F3700F51603 /* CustomTabBarView.swift */; };
+		4449C41429E8631A00F51603 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4449C41329E8631A00F51603 /* TestView.swift */; };
+		4487A7FF29E99774006C2395 /* AGLUI in Frameworks */ = {isa = PBXBuildFile; productRef = 4487A7FE29E99774006C2395 /* AGLUI */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +58,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4401380929E9A0AE00FCF668 /* Manrope-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Manrope-Medium.ttf"; sourceTree = "<group>"; };
+		4401380A29E9A0AE00FCF668 /* Manrope-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Manrope-Regular.ttf"; sourceTree = "<group>"; };
+		4401380B29E9A0AE00FCF668 /* Manrope-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Manrope-ExtraLight.ttf"; sourceTree = "<group>"; };
+		4401380C29E9A0AE00FCF668 /* Manrope-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Manrope-SemiBold.ttf"; sourceTree = "<group>"; };
+		4401380D29E9A0AF00FCF668 /* Manrope-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Manrope-ExtraBold.ttf"; sourceTree = "<group>"; };
+		4401380E29E9A0AF00FCF668 /* Manrope-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Manrope-Light.ttf"; sourceTree = "<group>"; };
+		4401380F29E9A0AF00FCF668 /* Manrope-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Manrope-Bold.ttf"; sourceTree = "<group>"; };
+		4401381729E9A0BD00FCF668 /* DynaPuff-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DynaPuff-SemiBold.ttf"; sourceTree = "<group>"; };
+		4401381829E9A0BD00FCF668 /* DynaPuff-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DynaPuff-Regular.ttf"; sourceTree = "<group>"; };
+		4401381929E9A0BD00FCF668 /* DynaPuff-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DynaPuff-Medium.ttf"; sourceTree = "<group>"; };
+		4401381A29E9A0BD00FCF668 /* DynaPuff-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DynaPuff-Bold.ttf"; sourceTree = "<group>"; };
+		4401382029E9C00E00FCF668 /* TestOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestOne.swift; sourceTree = "<group>"; };
+		4401382229E9C06B00FCF668 /* TestTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTwo.swift; sourceTree = "<group>"; };
+		4401382429E9C09200FCF668 /* TestThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestThree.swift; sourceTree = "<group>"; };
+		4401382629E9C0B200FCF668 /* TestFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFour.swift; sourceTree = "<group>"; };
+		4401382829E9C0D900FCF668 /* TestFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFive.swift; sourceTree = "<group>"; };
+		4401382A29E9C13400FCF668 /* TestSix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestSix.swift; sourceTree = "<group>"; };
+		4401382C29E9C15100FCF668 /* TestSeven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestSeven.swift; sourceTree = "<group>"; };
+		4401382E29E9C1CF00FCF668 /* cards.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = cards.json; sourceTree = "<group>"; };
 		4449C3D729E85CEB00F51603 /* SwiftUIIntro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIIntro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4449C3DA29E85CEB00F51603 /* SwiftUIIntroApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIIntroApp.swift; sourceTree = "<group>"; };
 		4449C3DC29E85CEB00F51603 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,6 +89,10 @@
 		4449C3F629E85CEF00F51603 /* SwiftUIIntroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIIntroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4449C3FA29E85CEF00F51603 /* SwiftUIIntroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIIntroUITests.swift; sourceTree = "<group>"; };
 		4449C3FC29E85CEF00F51603 /* SwiftUIIntroUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIIntroUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4449C41129E85F3700F51603 /* CustomTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarView.swift; sourceTree = "<group>"; };
+		4449C41329E8631A00F51603 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		4449C41529E8794A00F51603 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4487A7FC29E996D5006C2395 /* AGLUI */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = AGLUI; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +100,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4487A7FF29E99774006C2395 /* AGLUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,13 +121,55 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4401380729E9A07E00FCF668 /* DynaPuff */ = {
+			isa = PBXGroup;
+			children = (
+				4401381A29E9A0BD00FCF668 /* DynaPuff-Bold.ttf */,
+				4401381929E9A0BD00FCF668 /* DynaPuff-Medium.ttf */,
+				4401381829E9A0BD00FCF668 /* DynaPuff-Regular.ttf */,
+				4401381729E9A0BD00FCF668 /* DynaPuff-SemiBold.ttf */,
+			);
+			path = DynaPuff;
+			sourceTree = "<group>";
+		};
+		4401380829E9A09500FCF668 /* Manrope */ = {
+			isa = PBXGroup;
+			children = (
+				4401380F29E9A0AF00FCF668 /* Manrope-Bold.ttf */,
+				4401380D29E9A0AF00FCF668 /* Manrope-ExtraBold.ttf */,
+				4401380B29E9A0AE00FCF668 /* Manrope-ExtraLight.ttf */,
+				4401380E29E9A0AF00FCF668 /* Manrope-Light.ttf */,
+				4401380929E9A0AE00FCF668 /* Manrope-Medium.ttf */,
+				4401380A29E9A0AE00FCF668 /* Manrope-Regular.ttf */,
+				4401380C29E9A0AE00FCF668 /* Manrope-SemiBold.ttf */,
+			);
+			path = Manrope;
+			sourceTree = "<group>";
+		};
+		4401381F29E9BFFC00FCF668 /* PagingView */ = {
+			isa = PBXGroup;
+			children = (
+				4401382029E9C00E00FCF668 /* TestOne.swift */,
+				4401382229E9C06B00FCF668 /* TestTwo.swift */,
+				4401382429E9C09200FCF668 /* TestThree.swift */,
+				4401382629E9C0B200FCF668 /* TestFour.swift */,
+				4401382829E9C0D900FCF668 /* TestFive.swift */,
+				4401382A29E9C13400FCF668 /* TestSix.swift */,
+				4401382C29E9C15100FCF668 /* TestSeven.swift */,
+				4401382E29E9C1CF00FCF668 /* cards.json */,
+			);
+			path = PagingView;
+			sourceTree = "<group>";
+		};
 		4449C3CE29E85CEB00F51603 = {
 			isa = PBXGroup;
 			children = (
 				4449C3D929E85CEB00F51603 /* SwiftUIIntro */,
 				4449C3EF29E85CEF00F51603 /* SwiftUIIntroTests */,
 				4449C3F929E85CEF00F51603 /* SwiftUIIntroUITests */,
+				446ED43B29E99D980048C22C /* Packages */,
 				4449C3D829E85CEB00F51603 /* Products */,
+				4487A7FD29E99774006C2395 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -98,12 +186,10 @@
 		4449C3D929E85CEB00F51603 /* SwiftUIIntro */ = {
 			isa = PBXGroup;
 			children = (
-				4449C3DA29E85CEB00F51603 /* SwiftUIIntroApp.swift */,
-				4449C3DC29E85CEB00F51603 /* ContentView.swift */,
-				4449C3DE29E85CEE00F51603 /* Assets.xcassets */,
-				4449C3E329E85CEE00F51603 /* Persistence.swift */,
-				4449C3E529E85CEE00F51603 /* SwiftUIIntro.xcdatamodeld */,
-				4449C3E029E85CEE00F51603 /* Preview Content */,
+				4449C40929E85E7000F51603 /* Core */,
+				4449C40B29E85E7C00F51603 /* Scenes */,
+				4449C40A29E85E7500F51603 /* Services */,
+				4449C40C29E85E8400F51603 /* Resources */,
 			);
 			path = SwiftUIIntro;
 			sourceTree = "<group>";
@@ -133,6 +219,101 @@
 			path = SwiftUIIntroUITests;
 			sourceTree = "<group>";
 		};
+		4449C40929E85E7000F51603 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				4449C3DA29E85CEB00F51603 /* SwiftUIIntroApp.swift */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		4449C40A29E85E7500F51603 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				4449C41029E85F2800F51603 /* TabBar */,
+				4449C40E29E85EAE00F51603 /* DataStore */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		4449C40B29E85E7C00F51603 /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				4449C40D29E85E9D00F51603 /* Main */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		4449C40C29E85E8400F51603 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4487A7F629E992DA006C2395 /* Fonts */,
+				4449C41529E8794A00F51603 /* Info.plist */,
+				4449C3E029E85CEE00F51603 /* Preview Content */,
+				4449C3DE29E85CEE00F51603 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		4449C40D29E85E9D00F51603 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				4401381F29E9BFFC00FCF668 /* PagingView */,
+				4449C3DC29E85CEB00F51603 /* ContentView.swift */,
+				4449C41329E8631A00F51603 /* TestView.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		4449C40E29E85EAE00F51603 /* DataStore */ = {
+			isa = PBXGroup;
+			children = (
+				4449C40F29E85EB900F51603 /* CoreData */,
+			);
+			path = DataStore;
+			sourceTree = "<group>";
+		};
+		4449C40F29E85EB900F51603 /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				4449C3E529E85CEE00F51603 /* SwiftUIIntro.xcdatamodeld */,
+				4449C3E329E85CEE00F51603 /* Persistence.swift */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
+		4449C41029E85F2800F51603 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				4449C41129E85F3700F51603 /* CustomTabBarView.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		446ED43B29E99D980048C22C /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				4487A7FC29E996D5006C2395 /* AGLUI */,
+			);
+			path = Packages;
+			sourceTree = "<group>";
+		};
+		4487A7F629E992DA006C2395 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				4401380829E9A09500FCF668 /* Manrope */,
+				4401380729E9A07E00FCF668 /* DynaPuff */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		4487A7FD29E99774006C2395 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -149,6 +330,9 @@
 			dependencies = (
 			);
 			name = SwiftUIIntro;
+			packageProductDependencies = (
+				4487A7FE29E99774006C2395 /* AGLUI */,
+			);
 			productName = SwiftUIIntro;
 			productReference = 4449C3D729E85CEB00F51603 /* SwiftUIIntro.app */;
 			productType = "com.apple.product-type.application";
@@ -237,8 +421,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4401381B29E9A0BD00FCF668 /* DynaPuff-SemiBold.ttf in Resources */,
+				4401381129E9A0AF00FCF668 /* Manrope-Regular.ttf in Resources */,
+				4401381029E9A0AF00FCF668 /* Manrope-Medium.ttf in Resources */,
 				4449C3E229E85CEE00F51603 /* Preview Assets.xcassets in Resources */,
 				4449C3DF29E85CEE00F51603 /* Assets.xcassets in Resources */,
+				4401382F29E9C1CF00FCF668 /* cards.json in Resources */,
+				4401381529E9A0AF00FCF668 /* Manrope-Light.ttf in Resources */,
+				4401381329E9A0AF00FCF668 /* Manrope-SemiBold.ttf in Resources */,
+				4401381229E9A0AF00FCF668 /* Manrope-ExtraLight.ttf in Resources */,
+				4401381C29E9A0BD00FCF668 /* DynaPuff-Regular.ttf in Resources */,
+				4401381629E9A0AF00FCF668 /* Manrope-Bold.ttf in Resources */,
+				4401381D29E9A0BD00FCF668 /* DynaPuff-Medium.ttf in Resources */,
+				4401381E29E9A0BD00FCF668 /* DynaPuff-Bold.ttf in Resources */,
+				4401381429E9A0AF00FCF668 /* Manrope-ExtraBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,10 +459,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4401382D29E9C15100FCF668 /* TestSeven.swift in Sources */,
+				4401382B29E9C13400FCF668 /* TestSix.swift in Sources */,
+				4449C41429E8631A00F51603 /* TestView.swift in Sources */,
 				4449C3E729E85CEE00F51603 /* SwiftUIIntro.xcdatamodeld in Sources */,
+				4401382329E9C06B00FCF668 /* TestTwo.swift in Sources */,
+				4401382529E9C09200FCF668 /* TestThree.swift in Sources */,
+				4401382129E9C00E00FCF668 /* TestOne.swift in Sources */,
+				4449C41229E85F3700F51603 /* CustomTabBarView.swift in Sources */,
+				4401382929E9C0D900FCF668 /* TestFive.swift in Sources */,
 				4449C3E429E85CEE00F51603 /* Persistence.swift in Sources */,
 				4449C3DD29E85CEB00F51603 /* ContentView.swift in Sources */,
 				4449C3DB29E85CEB00F51603 /* SwiftUIIntroApp.swift in Sources */,
+				4401382729E9C0B200FCF668 /* TestFour.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -354,7 +559,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -409,7 +614,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -426,13 +631,13 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIIntro/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIIntro/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = U2N97D98Q8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SwiftUIIntro/Resources/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -455,13 +660,13 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIIntro/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIIntro/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = U2N97D98Q8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SwiftUIIntro/Resources/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -593,6 +798,13 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		4487A7FE29E99774006C2395 /* AGLUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = AGLUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		4449C3E529E85CEE00F51603 /* SwiftUIIntro.xcdatamodeld */ = {

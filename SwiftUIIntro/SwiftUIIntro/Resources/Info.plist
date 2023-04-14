@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>DynaPuff-Bold.ttf</string>
+		<string>DynaPuff-Medium.ttf</string>
+		<string>DynaPuff-Regular.ttf</string>
+		<string>DynaPuff-SemiBold.ttf</string>
+		<string>Manrope-Bold.ttf</string>
+		<string>Manrope-ExtraBold.ttf</string>
+		<string>Manrope-ExtraLight.ttf</string>
+		<string>Manrope-Light.ttf</string>
+		<string>Manrope-Medium.ttf</string>
+		<string>Manrope-Regular.ttf</string>
+		<string>Manrope-SemiBold.ttf</string>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIImageName</key>
+		<string>LaunchScreen</string>
+	</dict>
+</dict>
+</plist>
